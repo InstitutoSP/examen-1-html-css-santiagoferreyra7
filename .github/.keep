@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Examen de HTML y CSS</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#historia">Historia</a></li>
+            <li><a href="#campeones">Campeones</a></li>
+        </ul>
+    </nav>
+
+    <section id="inicio">
+        <h2>Inicio</h2>
+        <p>Esta es la sección de inicio. Aquí encontrarás información relevante sobre el inicio de la página web.</p>
+        <div class="FOTOS">
+            <img src="imagen_inicio.jpg" alt="Imagen de inicio">
+        </div>
+    </section>
+
+    <section id="historia">
+        <h2>Historia</h2>
+        <p>Esta es la sección de historia. Aquí encontrarás información histórica relacionada con el tema de la página.</p>
+        <div class="FOTOS">
+            <img src="imagen_historia.jpg" alt="Imagen de historia">
+        </div>
+    </section>
+
+    <section id="campeones">
+        <h2>Campeones</h2>
+        <p>Esta es la sección de campeones. Aquí encontrarás detalles sobre los campeones destacados en el tema de la página.</p>
+        <div class="FOTOS">
+            <img src="imagen_campeones.jpg" alt="Imagen de campeones">
+        </div>
+    </section>
+</body>
+</html>

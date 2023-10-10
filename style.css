@@ -1,0 +1,49 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  /* Tamaño de fuente para todo el contenido de la página */
+  body {
+      font-size: 18px;
+  }
+  
+  /* Fondo gris claro para el cuerpo de la página */
+  body {
+      background-color: #eee;
+  }
+  
+  /* Estilos para el encabezado */
+  header {
+      background-color: #000;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+  }
+  
+  /* Estilos para la barra de navegación */
+  nav ul {
+      list-style-type: none;
+      padding: 0;
+  }
+  
+  nav li {
+      display: inline;
+      margin-right: 20px;
+  }
+  
+  nav a {
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+  }
+  
+  /* Estilos para las secciones de contenido */
+  section {
+      margin-bottom: 20px;
+  }
+  
+  /* Estilos para elementos con la clase "FOTOS" */
+  .FOTOS {
+      border: 1px solid green;
+  }
+  
